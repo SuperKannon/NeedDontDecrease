@@ -1,0 +1,89 @@
+{
+	id Oct.Characters.Needs.Food
+	type CharacterStatNeedType
+    
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+	
+}
+
+{
+	id Oct.Characters.Needs.Sleep
+	type CharacterStatNeedType
+	
+	decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+	
+}
+
+{
+	id Oct.Characters.Needs.Light
+	type CharacterStatNeedType
+    
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+	
+}
+
+{
+	id Oct.Characters.Needs.Hygiene
+	type CharacterStatNeedType
+    
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+    
+}
+
+{
+	id Oct.Characters.Needs.Social
+	type CharacterStatNeedType
+    
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+	
+}
+
+{
+	id Oct.Characters.Needs.Comfort
+	type CharacterStatNeedType
+ 
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+   
+}
+
+{
+	id Oct.Characters.Needs.Prestige
+	type CharacterNeedType
+    
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+	
+}
+
+{
+	id Oct.Characters.Needs.Respect
+	type CharacterNeedType
+
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+	
+}
+
+{
+	id Oct.Characters.Needs.Clothes
+	type CharacterStatNeedType
+
+    decreasePerHour = 0
+	unmetOpinion = 0
+	subceededOpinion = 0
+    
+}
