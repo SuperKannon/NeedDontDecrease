@@ -1,4 +1,4 @@
-# NeedDontDecrease
+# Needs Don't Decrease
 A Simple mod that stop needs from decreasing.
 
 ## How to Install
